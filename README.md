@@ -1,6 +1,7 @@
 # frontend-UI-Web
 
-프론트엔드 UI 를 Web으로 이식하도록 하겠습니다.  
+프론트엔드 UI 를 Web으로 이식하도록 하겠습니다.
+
 는 실패.
 사유: React-native-web 과 Kitten UI를 결합하는데 아직 문제가
 있다고 합니다. 컴포넌트를 바로 문서에 embed 하는 것은 문제가 있으니,
